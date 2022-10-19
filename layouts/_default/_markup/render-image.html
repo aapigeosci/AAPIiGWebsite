@@ -1,0 +1,16 @@
+{{ $dest := "" }}
+{{ with .Destination }}
+    {{ $dest = . | safeHTML }}
+{{ end }}
+
+{{ $caption := "" }}
+{{ with .Title }}
+    {{ $caption = . | safeHTML }}
+{{ end }}
+
+{{ $alt := "" }}
+{{ with .Text }}
+    {{ $alt = . | safeHTML }}
+{{ end }}
+
+{{ partial "responsiveImage" (dict "Page" .Page "Destination" $dest "Alt" $alt "Title" $caption) }}

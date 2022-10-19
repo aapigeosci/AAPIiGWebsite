@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{ $page := . }}
+  <article class="container fillVerticalSpace">
+    {{- .Content -}}
+    {{ $site := $.Site }}
+    {{ $thisPage := . }}
+    <ul class="eventListing">
+        {{ range .Params.initiatives }}
+            <li>
+              {{ $thisPoster := ($thisPage.Resources.GetMatch .image) }}
+              {{ partial "responsiveImage" (dict "Page" $page "Destination" .image) }}
+              <br />
+              <strong>{{ .title | markdownify }}</strong>
+              {{ with .dateTime }}
+                <br/>
+                <em>{{ . | markdownify }}</em>
+              {{ end }}
+              {{ with .description }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
+              {{ with .location }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
+              {{ with .who }}
+                <br/>
+                <em>{{ . | markdownify }}</em>
+              {{ end }}
+              {{ with .registrationLink }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
+              {{ with .recordings }}
+                <br/>
+                {{ . | markdownify }}
+              {{ end }}
+            </li>
+        {{ end }}
+    </ul>
+  </article>
+{{ end }}

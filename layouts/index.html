@@ -1,0 +1,11 @@
+{{ define "main" }}
+    {{ $allParams := .Params }}
+    <article class="container fillVerticalSpace">
+        {{ with .Params.image }}
+            <img src="{{ . }}", alt="{{ $allParams.altText }}" />
+        {{ end }}
+        {{ with .Params.indexText }}
+            {{ . | $.Page.RenderString }}
+        {{ end }}
+    </article>
+{{ end }}

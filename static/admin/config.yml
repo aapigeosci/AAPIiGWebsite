@@ -1,0 +1,63 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+local_backend: true
+publish_mode: editorial_workflow
+media_folder: "site/static/img"  # Media files will be stored in the repo under images/uploads
+public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Homepage"
+        name: "index"
+        file: "site/content/_index.md"
+        fields:
+          - {label: "Homepage text", name: indexText, widget: markdown}
+      - label: "Steering Committee"
+        name: "steeringCommittee"
+        file: "site/content/whoWeAre/steeringCommittee.md"
+        fields:
+          - label: Steering Committee Members
+            name: members
+            widget: list
+            fields:
+              - {label: Photo, name: photo, widget: image, required: false}
+              - {label: Alt Text, name: altText, widget: string, required: false}
+              - {label: Name, name: name, widget: markdown}
+              - {label: Pronouns, name: pronouns, widget: string, required: false}
+              - {label: Position, name: position, widget: string, required: false}
+              - {label: Institution, name: institution, widget: string, required: false}
+              - {label: Short bio, name: bio, widget: markdown, required: false}
+              - {label: Website, name: website, widget: string, required: false}
+              - {label: Social Media, name: socialMedia, widget: string, required: false}
+      - label: "Community Administrators"
+        name: "communityAdministrators"
+        file: "site/content/whoWeAre/communityAdministrators.md"
+        fields:
+          - label: Community Administrators
+            name: individuals
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: markdown}
+              - {label: Position, name: position, widget: string, required: false}
+              - {label: Institution, name: institution, widget: string, required: false}
+              - {label: Contact, name: contact, widget: string, required: false}
+      - label: "Events"
+        name: "events"
+        file: "site/content/initiatives/events/index.md"
+        folder: site/content/initiatives/events/img/
+        media_folder: 'img'
+        fields:
+          - label: Initiatives
+            name: initiatives
+            widget: list
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
+              - {label: Title, name: title, widget: markdown, required: true}
+              - {label: Date and Time, name: dateTime, widget: string, required: false}
+              - {label: Description, name: description, widget: markdown, required: false}
+              - {label: Location, name: location, widget: markdown, required: false}
+              - {label: Who, name: who, widget: string, required: false}
+              - {label: Registration Link, name: registrationLink, widget: markdown, required: false}
+              - {label: Recordings, name: recordings, widget: markdown, required: false}         

@@ -1,0 +1,18 @@
+{{ define "main" }}
+    <div class="container fillVerticalSpace">
+        {{- .Content -}}
+        <ul class="simpleListing">
+            <!-- Ranges through pages -->
+            {{ range .Pages }}
+                <li>
+                    <a href="{{.Permalink}}">{{.Title}}</a>
+                    {{ with .Params.summary }}
+                        <div class="summary"> 
+                            {{ . }} 
+                        </div>
+                    {{ end }}
+                </li>
+            {{ end }}
+        </ul>
+    </div>
+{{ end }}
