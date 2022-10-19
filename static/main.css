@@ -1,0 +1,238 @@
+/*
+  You can use import statements to include partials:
+ */
+@import 'imports/reset.css';
+
+/*
+  Or add your statements here:
+ */
+
+html {
+  font-size: 62.5%;
+  overflow-y: scroll;
+}
+
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  width: 100%
+}
+
+/* Images */
+
+figure {
+  margin: 0;
+}
+
+figcaption{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+img, embed, object, video {
+  max-width: 100%;
+}
+
+img {
+  margin: 0;
+  display: block;
+}
+
+nav img {
+  min-width: 3.6rem;
+  max-height: 7.2rem;
+}
+
+/* Links */
+
+a, a > figure, a > img {
+  color: #000;
+  /*text-underline-position: under;*/
+  text-decoration-skip-ink: auto;
+  text-decoration: underline;
+}
+
+a:hover, a:hover > figure, a:hover > img {
+  color: red;
+  -webkit-transition: .25s cubic-bezier(.2,.6,.4,1);
+}
+
+a:visited{
+}
+
+
+/* Navigation menu, complete with sub-menus */
+
+nav{
+  margin-top: 1.8rem;
+  padding-bottom: 1.8rem;
+  border-bottom: 1px solid #000;
+}
+
+nav a{
+  color: black;
+  text-decoration: none;
+}
+
+nav ul{
+  list-style: none;
+  padding: 0;
+}
+
+nav li{
+  padding: 0;
+  margin-right: 1.8rem;
+}
+
+.mainNavMenu {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  align-items: center;
+}
+
+.subMenu {
+  padding: 0 0 0 1.8rem;
+  text-decoration: none;
+  display: none;
+}
+
+.active{
+  text-decoration: underline red;
+  text-underline-position: under
+}
+
+/* Page lists */
+
+.simpleListing, .eventListing {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-gap: 1.8rem;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.simpleListing li, .eventListing li {
+  grid-column-end: span 2;
+}
+
+.eventListing li {
+  margin-bottom: 1.8rem;
+}
+
+.simpleListing li{
+  padding: 1.8rem;
+  border: 1px solid #000;
+}
+
+.borderless li{
+  border: none;
+  padding: 0;
+}
+
+.summary{
+  margin-top: 1.8rem;
+  font-style: italic;
+}
+
+/* Footer */
+
+footer{
+  text-align: center;
+  font-size: 1.6rem;
+}
+
+.footerContents{
+  border-top: 1px solid #000;
+  padding: 1.8rem 0 1.8rem 0;
+  margin: 1.8rem 0 1.8rem 0;
+}
+
+/* Containers */
+
+.container{
+	margin: 0 auto;
+	max-width: 96.0rem;
+	padding: 0 1.8rem;
+	position: relative;
+	width: 100%;
+  flex: 0 0 auto;
+  box-sizing: border-box;
+}
+
+.fillVerticalSpace{
+  flex: 1 0 auto;
+}
+
+.toContainEverything {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+}
+
+.googleForm{
+  text-align: center;
+}
+
+/* Media queries */
+
+/* Larger than mobile */
+@media only screen and (min-width: 400px) {
+	
+}
+
+/* Larger than phablet */
+@media only screen and (min-width: 550px) {
+
+  nav{
+    border-bottom: none;
+  }
+
+  .mainNavMenu {
+    grid-auto-flow: column;
+  }
+
+  .subMenu {
+    background-color: #fff;
+    position: absolute;
+    z-index: 10000;
+    padding: 1rem;
+    transform: rotateX(-90deg)translateX(-1rem);
+    border: 1px solid black;
+    display: block;
+  }
+
+  .needsSubMenu:hover {
+    text-decoration: none;
+  }
+  
+  .needsSubMenu:hover .subMenu, .needsSubMenu:focus-within .subMenu {
+    opacity: 1;
+    transform: rotateX(0)translateX(-1rem);
+    visibility: visible;
+  }
+
+  .simpleListing li {
+    grid-column-end: span 1;
+  }
+
+}
+
+/* Larger than tablet */
+@media only screen and (min-width: 750px) {
+	
+}
+
+/* Larger than desktop */
+@media only screen and (min-width: 1000px) {}
+
+/* Larger than Desktop HD */
+@media only screen and (min-width: 1200px) {}
