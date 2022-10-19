@@ -11,12 +11,12 @@ sections:
   match: "*"
 - type: directory
   path: content/whoWeAre
-  label: Whoweare
+  label: Who We Are
   create: all
   match: "**/*"
 - type: directory
   path: content/supportUs
-  label: Supportus
+  label: Support Us
   create: all
   match: "**/*"
 - type: directory
@@ -31,7 +31,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/getInvolved
-  label: Getinvolved
+  label: Get Involved
   create: all
   match: "**/*"
 - type: directory
