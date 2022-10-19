@@ -15,3 +15,6 @@ portraitPhotoWidths = [1500, 1000, 750]
 
 [imaging]
 quality = 70
+
+[security.funcs]
+getenv = ['^HUGO_', '^WC_POST_CSS']
