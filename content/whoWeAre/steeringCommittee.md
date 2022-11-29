@@ -53,12 +53,6 @@ members:
   website: www.linkedin.com/in/priyanka-bose
   socialMedia: https://twitter.com/Lead_82
 - name: Sami Chen
-- name: Sara Tenamoeata Segura Kahanamoku
-  pronouns: they/them
-  position: PhD candidate
-  institution: University of California, Berkeley
-  website: ''
-  socialMedia: https://twitter.com/sara_kahanamoku
 - photo: "/img/img_4943-victor-guevara.jpg"
   name: Victor Guevara
   pronouns: he/his
@@ -109,8 +103,6 @@ AAPIiG would not be possible without the collective efforts of the following mem
 **Priyanka Bose**
 
 **Sami Chen**
-
-**Sara Kahanamoku**
 
 **Thi Truong**
 
