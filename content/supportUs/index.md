@@ -4,7 +4,6 @@ weight: "175"
 menu:
   main:
     weight: 175
-draft: true
 
 ---
 Asian American and Pacific Islanders in Geosciences (AAPIiG) strives to empower AAPIs in geosciences by creating a community of AAPI scientists across the country who support each other; celebrating AAPI culture; and advocating for justice, equity, diversity and inclusion issues in solidarity with other marginalized groups (see [Our Mission](/whoWeAre/ourMission)).
