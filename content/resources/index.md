@@ -6,9 +6,7 @@ menu:
     weight: 100
 
 ---
-This page is under construction!
-
-In the meanwhile, here are some useful resources:
+Here are some useful resources:
 
 **Other Community Groups in Geosciences**
 
