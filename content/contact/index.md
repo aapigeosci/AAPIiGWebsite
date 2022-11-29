@@ -1,7 +1,11 @@
 ---
 title: Contact Us
-menu: main
-weight: 150
+weight: "150"
+menu:
+  main:
+    weight: 150
+draft: true
+
 ---
 **Social Media**
 
