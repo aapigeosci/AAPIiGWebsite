@@ -112,4 +112,6 @@ AAPIiG would not be possible without the collective efforts of the following mem
 
 **Yueyi Che**
 
+**Fai Chanchai**
+
 ...and more to come!
