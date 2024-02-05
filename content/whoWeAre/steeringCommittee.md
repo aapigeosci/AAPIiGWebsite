@@ -74,7 +74,7 @@ members:
   website: www.linkedin.com/in/yueyi-che-2b79161a2
   socialMedia: https://www.instagram.com/europa_science/
 menu:
-  main:
+  main: 
     parent: Who We Are
 
 ---
