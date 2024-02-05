@@ -8,47 +8,72 @@ menu:
 ---
 AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
 
-**Board of Directors (BoD)**
+**Board of Directors (BoD):**
 
-President: Jeemin H. Rhim
-Executive Director: Yihang Fang
-Treasurer: Laura Lyon
-Communications Director: Thi Truong
+President: Jeemin H. Rhim (2022-2024)
 
-**Non-Voting Officers of the BoD**
+Executive Director: Yihang Fang (2023-2024)
 
-**Akshay Mehra**
+Treasurer: Laura Lyon (2022-2024)
 
-**Caleb K. Walcott**
+Communications Director: Thi Truong (2023-2024)
 
-**Caroline Juang (credit: logo design)**
+**Non-Voting Officers of the BoD:**
 
-**Emily Cardarelli**
+Akshay Mehra (former Executive Director, 2022-2023)
 
-**Erika Valdueza**
+Caleb K. Walcott (former Communications Director, 2022-2023)
 
-**Jeemin Rhim**
+**Co-Founders:**
 
-**Jonathan Lin**
+Christine Y. Chen
 
-**Jasmeet Dhaliwal**
+Daniel Ibarra
 
-**Kitrea P. Takata-Glushkoff**
+Kimberly Lau
 
-**Luan Heywood**
+**Current Steering Committee members (2023-2024):**
 
-**Priyanka Bose**
+Brendan Anzures
 
-**Sami Chen**
+Caroline Juang (credit: logo design)
 
-**Thi Truong**
+Karen Pham
 
-**Victor Guevara**
+Luan Heywood
 
-**Yihang Fang**
+Sami Chen
 
-**Yueyi Che**
+Stephanie Lim
 
-**Fai Chanchai**
+Watsawan (Fai) Chanchai
 
-...and more to come!
+**Former Steering Committee members (-2023):**
+
+Bor-Ting Jong
+
+Emily Cardarelli
+
+Eric Hasegawa
+
+Erika Valdueza
+
+Jonathan Lin
+
+Jasmeet Dhaliwal
+
+Kitrea P. Takata-Glushkoff
+
+Priyanka Bose
+
+Robby Goldman
+
+Rohini Shivamoggi
+
+Sara Kahanamoku
+
+Vanessa Sun
+
+Victor Guevara
+
+Yueyi Che
