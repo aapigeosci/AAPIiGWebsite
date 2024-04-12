@@ -1,0 +1,105 @@
+.team-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.team-member {
+    width: calc(33.33% - 20px);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.president {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    text-align: center; /* Center the content */
+}
+
+.president .member-info {
+    margin-top: 10px;
+    text-align: center; /* Left-align the text */
+}
+
+.president img {
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+.team-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.team-row .team-member {
+    width: calc(30% - 20px);
+}
+
+.team-row2 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.team-row2 .team-member {
+    width: calc(50% - 20px);
+    align-items: center; /* Center horizontally */
+        text-align: center; /* Center the content */
+}
+
+.team-member img {
+    max-width: 100%;
+    border-radius: 25%;
+}
+
+.member-info {
+    margin-top: 10px;
+}
+
+.member-info p {
+    margin: 5px 0;
+}
+
+.member-info strong {
+    font-weight: bold;
+}
+
+
+/* Left-align other info except for the first line (name) */
+/* .member-info p:not(:first-of-type) {
+    text-align: left;
+} */             /* comment out this section to make all text below names left aligned */
+
+
+/* Left-align other info except for the first line (name) */
+.president .member-info p:not(:first-of-type) {
+    text-align: center; /* Center other info for the President */
+}
+
+/* For mobile layout */
+
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+@media screen and (max-width: 768px) {
+    .team-row .team-member {
+        width: 100%; /* Set width to 100% to have one person per row */
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center horizontally */
+        text-align: center; /* Center the content */
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .team-row2 .team-member {
+        width: 100%; /* Set width to 100% to have one person per row */
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* Center horizontally */
+        text-align: center; /* Center the content */
+    }
+}
