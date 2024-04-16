@@ -2,7 +2,7 @@
 title: Register
 menu: 
   main:
-    parent: Initiatives
+    parent: Events
 weight: 50
 aliases: /register
 draft: true

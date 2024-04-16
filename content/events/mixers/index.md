@@ -2,7 +2,7 @@
 title: Mixers
 menu: 
   main:
-    parent: Initiatives
+    parent: Events
 weight: 50
 ---
 

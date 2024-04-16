@@ -1,8 +1,8 @@
 ---
-title: Events
+title: Current Events
 menu: 
   main:
-    parent: Initiatives
+    parent: Events
 weight: 50
 ---
 
