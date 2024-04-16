@@ -1,5 +1,5 @@
 ---
-title: Current Events
+title: Upcoming Events
 menu: 
   main:
     parent: Events
