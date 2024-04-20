@@ -6,6 +6,11 @@ menu:
 weight: 50
 ---
 
+# AAPIiG APA Heritage Month 2024
+
+![Image showing May 2024 events, created by Caroline Juang.](AANHPI2024_WebsiteBannerEvents.png)
+
+<!---
 # AAPIiG APA Heritage Month Panel: Allyship as AAPI Geoscientists
 
 ![Image showing information about a panel on Allyship as AAPI Geoscientists.](panel1Poster.png)
@@ -25,4 +30,4 @@ Conversations and scholarship about race and structural inequity in United State
 
 Register [here](https://beav.es/APA22-panel2).
 
-
+-->
