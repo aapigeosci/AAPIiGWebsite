@@ -6,6 +6,12 @@ menu:
 weight: 50
 ---
 
+# LGBTQIA+ Virtual Mixer
+
+![Image showing information for May 2024 LGBTQIA+ mixer.](AANHPI2024_LGBT_Mixer.png)
+
+
+<!---
 # Student Mixer
 
 ![Image showing information about a student mixer.](studentMixer.png)
@@ -28,3 +34,4 @@ Come and meet other AAPIiG community members as we  catch up with old and new fa
 For the Zoom link, please make sure you are subscribed to the AAPIiG mailing list by signing up [here](https://www.aapigeosci.org/getinvolved/joinus/). 
 
 For questions or concerns, please contact Christine Y. Chen at cychen@llnl.gov.
+-->
