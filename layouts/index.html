@@ -1,6 +1,7 @@
-{{ define "main" }}
+{{ define "main" }} <!-- This modifies the homepage layout -->
     {{ $allParams := .Params }}
     <article class="container fillVerticalSpace">
+        {{ partial "banner.html" . }} <!-- This line references ../layout/partials/banner.html WDN created -->
         {{ with .Params.image }}
             <img src="{{ . }}", alt="{{ $allParams.altText }}" />
         {{ end }}

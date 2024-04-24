@@ -1,0 +1,11 @@
+<!-- layouts/partials/banner.html -->
+{{ with .Params.banner }}
+  {{ if .enabled }}
+    <div class="alert-banner">
+      <a href="{{ .link }}" class="alert-banner-link">
+        {{ .message }}
+      </a>
+    </div>
+  {{ end }}
+{{ end }}
+<!-- referenced in ../index.html which controls homepage -->
