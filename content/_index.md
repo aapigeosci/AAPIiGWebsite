@@ -5,7 +5,7 @@ weight: -100
 banner:
   enabled: true
   message: "Explore Our Upcoming Events!"
-  link: "AAPIiGWebsite/events/currentevents/"
+  link: "https://aapigeosci.org/events/currentevents/"
 indexText: >-
   # Asian Americans and Pacific Islanders in Geosciences
 
