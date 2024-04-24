@@ -6,7 +6,7 @@ menu:
 weight: 50
 ---
 
-# AAPIiG APA Heritage Month 2024 At a Glance
+# AAPIiG APA Heritage Month 2024 at a Glance
 
 ![Image showing May 2024 events, created by Caroline Juang.](AANHPI2024_WebsiteBannerEvents.png)
 
