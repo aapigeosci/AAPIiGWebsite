@@ -2,10 +2,14 @@
 title: AAPiG
 menu: main
 weight: -100
+banner:
+  enabled: true
+  message: "Explore Our Upcoming Events!"
+  link: "AAPIiGWebsite/events/currentevents/"
 indexText: >-
   # Asian Americans and Pacific Islanders in Geosciences
 
-  ![AAPIiG front image.](aapiig-website-front-page-4_2021.png "Front page image for AAPIiG")
+  ![AAPIiG front image.](aapiig-website-front-page-4_2021.png)
 
 
   Asian Americans and Pacific Islanders in Geosciences (AAPIiG) is a grassroots, member-driven organization committed to building a community that supports AAPIs within geosciences.

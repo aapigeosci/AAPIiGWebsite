@@ -236,3 +236,23 @@ footer{
 
 /* Larger than Desktop HD */
 @media only screen and (min-width: 1200px) {}
+
+/* static/css/styles.css */
+.alert-banner {
+  background-color: #0D82A8; /* Choose a color that matches your design */
+  color: #FFFFFF;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  z-index: 1000;
+}
+
+.alert-banner-link {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
+};
+}
+/* This changes the banner color and text color on the homepage. */
+/* This references ../layouts/partials/banner.html AND ..layouts/index.html */
