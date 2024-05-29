@@ -6,6 +6,11 @@ menu:
 weight: 50
 ---
 
+# LGBTQIA+ Virtual Mixer
+
+![Image showing information for May 2024 LGBTQIA+ mixer.](AANHPI2024_LGBT_Mixer.png)
+
+<!---
 # AAPIiG APA Heritage Month 2024 at a Glance
 
 ![Image showing May 2024 events, created by Caroline Juang.](AANHPI2024_WebsiteBannerEvents.png)
@@ -51,6 +56,7 @@ This will be a 90 minute interactive virtual workshop and is open to the public.
 Register [here](https://tinyurl.com/aapiig-interests).
 
 Questions about this workshop? Contact Thi Truong at tbtruon1@uci.edu. 
+-->
 
 <!---
 # AAPIiG APA Heritage Month Panel: Allyship as AAPI Geoscientists
