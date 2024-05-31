@@ -3,7 +3,7 @@ title: AAPiG
 menu: main
 weight: -100
 banner:
-  enabled: true
+  enabled: false
   message: "Explore Our Upcoming Events!"
   link: "https://aapigeosci.org/events/currentevents/"
 indexText: >-
