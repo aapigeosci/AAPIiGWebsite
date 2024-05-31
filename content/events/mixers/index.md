@@ -6,12 +6,13 @@ menu:
 weight: 50
 ---
 
+There are no upcoming mixers at this time. Explore our [event archive](https://aapigeosci.org/events/oldevents/).
+
+<!---
 # LGBTQIA+ Virtual Mixer
 
 ![Image showing information for May 2024 LGBTQIA+ mixer.](AANHPI2024_LGBT_Mixer.png)
 
-
-<!---
 # Student Mixer
 
 ![Image showing information about a student mixer.](studentMixer.png)

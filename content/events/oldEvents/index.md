@@ -11,6 +11,19 @@ menu:
 <details id="year-2024" open>
 <summary style="font-size: 24px; font-weight: bold;">2024</summary>
   <details>
+  <summary>&nbsp;<b>May 30</b> - LGBTQIA+ Virtual Mixer</summary>
+
+  ![Image showing information for May 2024 LGBTQIA+ mixer.](img/AANHPI2024_LGBT_Mixer.png)
+
+  **Date:** May 30, 2024
+
+  **Format:** Virtual
+
+  **Location:** Zoom
+
+  </details>
+
+  <details open>
   <summary>&nbsp;<b>May 28</b> - Virtual Workshop: Exploring Personal Heritage in Academic and Professional Paths</summary>
 
   ![Image showing Personal Heritage Panel May 2024.](img/AANHPI2024_Panel_2_Event_Poster.png)
@@ -31,7 +44,7 @@ menu:
   - Caroline Juang is a PhD candidate, Department of Earth and Environmental Sciences at Columbia University, who studies wildfires in the western U.S. and is active in art, digital art, illustration (for example, AAPIiG's logo and event flyers). Twitter: @caro_in_space
   </details>
 
-  <details>
+  <details open>
   <summary>&nbsp;<b>May 9</b> - Virtual Panel: Natural Disasters: Mitigation, Response, Recovery and the AANHPI Community</summary>
 
   ![Image showing Natural Disaster Panel May 2024.](img/AANHPI2024_Panel_1_Event_Poster.png)
