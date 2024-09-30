@@ -24,7 +24,7 @@ To achieve our mission, the organization coordinates, maintains, and supports th
 
 **Who is AAPIIG for?**
 
-We welcome all geosciences community members who self-identify as Asian American and/or Pacific Islander, as well as individuals of Asian- and/or Pacific Islander-descent working in U.S.-based institutions. Community members include undergraduates, graduate students, recent graduates in transition, post-baccalaureate, and prospective students, postdocs, faculty, educators, administrators, industry and non-profit professionals, federal or state employees, researchers, retirees, and more. Please visit the [AAPIIG Slack](/getInvolved/Slack) page for further details.
+We welcome all geosciences community members who self-identify as Asian American and/or Pacific Islander, as well as individuals of Asian- and/or Pacific Islander-descent working in U.S.-based institutions. Community members include undergraduates, graduate students, recent graduates in transition, post-baccalaureate, and prospective students, postdocs, faculty, educators, administrators, international scholars, industry and non-profit professionals, federal or state employees, researchers, retirees, and more. Please visit the [AAPIIG Slack](/getInvolved/Slack) page for further details.
 
 Allies who are interested in learning more about AAPI issues are welcome to join our email lists to receive announcements, information on events, and guidance on ways to support the AAPIiG community.
 
