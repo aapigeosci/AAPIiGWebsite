@@ -1,6 +1,6 @@
 ---
 title: Steering Committee
-summary: The leaders and organizers who make AAPIiG happen.
+summary: The leaders and organizers who make AAPIIG happen.
 menu:
   main: 
     parent: Who We Are
@@ -8,7 +8,7 @@ menu:
 <link rel="stylesheet" type="text/css" href="/whoweare.css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-AAPIiG would not be possible without the collective efforts of the following members of the AAPIiG Steering Committee:
+AAPIIG would not be possible without the collective efforts of the following members of the AAPIIG Steering Committee:
 
 **Board of Directors (BoD):**
 <div class="team-members">
