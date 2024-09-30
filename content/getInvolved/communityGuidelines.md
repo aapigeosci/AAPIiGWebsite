@@ -4,13 +4,13 @@ menu:
     main:
         parent: Get Involved
 weight: 20
-summary: "Guidelines for all conduct in spaces where AAPIiG congregates, whether online or in-person."
+summary: "Guidelines for all conduct in spaces where AAPIIG congregates, whether online or in-person."
 ---
-Thank you for your interest in the AAPIiG community. As part of [our mission](/whoweare/ourmission), we aim to create a place where all members feel safe, included, and able to particulate as their whole selves. As an affinity space, we recognize that everyone is at different stages of identity formation, especially as it pertains to our role as geoscientists. We strive to make AAPIiG an organization that fosters environments where this lifelong journey of learning and introspection may occur.
+Thank you for your interest in the AAPIIG community. As part of [our mission](/whoweare/ourmission), we aim to create a place where all members feel safe, included, and able to particulate as their whole selves. As an affinity space, we recognize that everyone is at different stages of identity formation, especially as it pertains to our role as geoscientists. We strive to make AAPIIG an organization that fosters environments where this lifelong journey of learning and introspection may occur.
 
-To ensure the best possible experience for all participants, we have established some basic guidelines for all conduct in spaces where the AAPIiG community congregates, whether online or in-person. This document is a living document and subject to amendments in the future as societal ethics continue to evolve.
+To ensure the best possible experience for all participants, we have established some basic guidelines for all conduct in spaces where the AAPIIG community congregates, whether online or in-person. This document is a living document and subject to amendments in the future as societal ethics continue to evolve.
 
-By joining or participating in AAPIiG activities, you agree that you have read and will follow these guidelines. We reserve the right to suspend or terminate a participant’s ability to engage in AAPIiG events and spaces if they violate these rules.
+By joining or participating in AAPIIG activities, you agree that you have read and will follow these guidelines. We reserve the right to suspend or terminate a participant’s ability to engage in AAPIIG events and spaces if they violate these rules.
 
 If you have questions about these rules, the community, or how you can participate, please contact a Community Administrator.
 

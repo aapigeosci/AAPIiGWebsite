@@ -6,15 +6,15 @@ menu:
     weight: 175
 
 ---
-Asian American and Pacific Islanders in Geosciences (AAPIiG) strives to empower AAPIs in geosciences by creating a community of AAPI scientists across the country who support each other; celebrating AAPI culture; and advocating for justice, equity, diversity and inclusion issues in solidarity with other marginalized groups (see [Our Mission](/whoWeAre/ourMission)).
+Asian American and Pacific Islanders in Geosciences (AAPIIG) strives to empower AAPIs in geosciences by creating a community of AAPI scientists across the country who support each other; celebrating AAPI culture; and advocating for justice, equity, diversity and inclusion issues in solidarity with other marginalized groups (see [Our Mission](/whoWeAre/ourMission)).
 
 ### Near-term goals
 
-In 2023, we hope to officially incorporate AAPIiG as a nonprofit and apply for tax-exempt status. This will allow us to secure long-term sustainability as a group that is primarily run by student volunteers and early career researchers. We will use part of the contributions we receive in the near future to cover the upfront cost for the incorporation process. Any and all of your contributions will be greatly appreciated!
+In 2023, we hope to officially incorporate AAPIIG as a nonprofit and apply for tax-exempt status. This will allow us to secure long-term sustainability as a group that is primarily run by student volunteers and early career researchers. We will use part of the contributions we receive in the near future to cover the upfront cost for the incorporation process. Any and all of your contributions will be greatly appreciated!
 
 ### What proceeds will support: Long-term goals
 
-In the long term, proceeds will be used to support various AAPIiG initiatives:
+In the long term, proceeds will be used to support various AAPIIG initiatives:
 
 * Networking events for AAPI geoscientists, with special focus on students and early career researchers (e.g., \~$300 food costs for an in-person mixer)
 * Travel scholarships to conferences

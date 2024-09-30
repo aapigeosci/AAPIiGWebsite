@@ -41,7 +41,7 @@ menu:
 
   - Amira Noeuv is a PhD Candidate in Ethnic Studies at UC San Diego who contributed a StoryMap: "Yey Sokhary's Journey" towards a project of Inter-Generational Story Mapping in the Cambodian, Native Hawaiian, and Pacific Islander Communities of Orange County. Twitter: @AmiraNoeuv
 
-  - Caroline Juang is a PhD candidate, Department of Earth and Environmental Sciences at Columbia University, who studies wildfires in the western U.S. and is active in art, digital art, illustration (for example, AAPIiG's logo and event flyers). Twitter: @caro_in_space
+  - Caroline Juang is a PhD candidate, Department of Earth and Environmental Sciences at Columbia University, who studies wildfires in the western U.S. and is active in art, digital art, illustration (for example, AAPIIG's logo and event flyers). Twitter: @caro_in_space
   </details>
 
   <details open>
@@ -68,7 +68,7 @@ menu:
   <details>
   <summary>&nbsp;<b>March 14</b> - Lunar Planetary Sciences Conference Meetup in The Woodlands, TX</summary>
 
-  ![2024 LPSC image](img/2024_conference_offsite_AAPIiG_at_LPSC.jpg)
+  ![2024 LPSC image](img/2024_conference_offsite_AAPIIG_at_LPSC.jpg)
 
   **Date:** March 14, 2024
 
@@ -76,7 +76,7 @@ menu:
 
   **Location:** The Woodlands Waterway Marriott Hotel and Convention Center
 
-  **AAPIiG Organizers:** Brendan Anzures
+  **AAPIIG Organizers:** Brendan Anzures
   </details>
 
   <details>
@@ -88,7 +88,7 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Mentoring Team and Waverly Lau from AGU
+  **AAPIIG Organizers:** Mentoring Team and Waverly Lau from AGU
 
   **Description:** Kick-off meeting to provide detailed instructions for transitioning to the new Mentoring365 platform.
   </details>
@@ -102,7 +102,7 @@ menu:
 
   **Location:** Courtyard Brewing, New Orleans, LA
 
-  **AAPIiG Organizers:** Stephanie Lim
+  **AAPIIG Organizers:** Stephanie Lim
   </details>
 
   <details>
@@ -122,7 +122,7 @@ menu:
 <details id="year-2023" open>
 <summary style="font-size: 24px; font-weight: bold;">2023</summary>
   <details>
-  <summary>&nbsp;<b>December 13</b> - AAPIiG at AGU 2023 Offsite Mixer</summary>
+  <summary>&nbsp;<b>December 13</b> - AAPIIG at AGU 2023 Offsite Mixer</summary>
 
   **Date:** December 13, 2023
 
@@ -130,11 +130,11 @@ menu:
 
   **Location:** 21st Amendment Brewery, San Francisco, CA
 
-  **AAPIiG Organizers:** Caleb Walcott
+  **AAPIIG Organizers:** Caleb Walcott
   </details>
 
   <details>
-  <summary>&nbsp;<b>Week of Dec 11</b> - AAPIiG at AGU 2023 Recap of conference activities</summary>
+  <summary>&nbsp;<b>Week of Dec 11</b> - AAPIIG at AGU 2023 Recap of conference activities</summary>
 
   **Date:** December 11, 2023
 
@@ -142,9 +142,9 @@ menu:
 
   **Location:** San Francisco, CA
 
-  **AAPIiG Organizers:** Caleb Walcott, Yihang Fang, Caroline Juang, and Christine Chen
+  **AAPIIG Organizers:** Caleb Walcott, Yihang Fang, Caroline Juang, and Christine Chen
 
-  **Description:** We were excited to see new and familiar faces at the 2023 AGU Fall Meeting this year in San Francisco, CA! We had sunny weather all week, making it easy to trek to the convention center and to our mixers. AAPIiG said hello at AGU's "Inclusive Science for All" reception on Monday. On Tuesday, we held four Pods in the poster hall where members met each other and shared stories on a cozy circular couch. Finally, on Wednesday, we held an offsite mixer at 21st Amendment Brewery where we celebrated the mid-week conference over dinner and drinks! Thank you all for coming out and sharing your enthusiasm for science and for our community! 
+  **Description:** We were excited to see new and familiar faces at the 2023 AGU Fall Meeting this year in San Francisco, CA! We had sunny weather all week, making it easy to trek to the convention center and to our mixers. AAPIIG said hello at AGU's "Inclusive Science for All" reception on Monday. On Tuesday, we held four Pods in the poster hall where members met each other and shared stories on a cozy circular couch. Finally, on Wednesday, we held an offsite mixer at 21st Amendment Brewery where we celebrated the mid-week conference over dinner and drinks! Thank you all for coming out and sharing your enthusiasm for science and for our community! 
   </details>
 
   <details open>
@@ -156,7 +156,7 @@ menu:
 
   **Location:** Zoom
 
-  **Description:** Discussion was led by AAPIiG Steering Committee and co-organizers Akilah Alwan (Graduate Research Fellow, Auburn University; National Association of Black Geoscientists) and Dr. Darryl Reano (Assistant Professor, School of Earth and Space Exploration, Arizona State University; Acoma Pueblo). This was a closed 1-hour discussion following the public talk by Dr. Christine Yifeng Chen about systemic funding disparities. This discussion made space for participants to reflect on disconnects between broader scientific culture and their identities as members of marginalized groups in the context of persistent funding disparities. 
+  **Description:** Discussion was led by AAPIIG Steering Committee and co-organizers Akilah Alwan (Graduate Research Fellow, Auburn University; National Association of Black Geoscientists) and Dr. Darryl Reano (Assistant Professor, School of Earth and Space Exploration, Arizona State University; Acoma Pueblo). This was a closed 1-hour discussion following the public talk by Dr. Christine Yifeng Chen about systemic funding disparities. This discussion made space for participants to reflect on disconnects between broader scientific culture and their identities as members of marginalized groups in the context of persistent funding disparities. 
   </details>
 
   <details open>
@@ -170,7 +170,7 @@ menu:
 
   **Location:** Zoom
 
-  **Description:** A public presentation by AAPIiG co-founder Dr. Christine Yifeng Chen, who was the lead author of the eLife paper "Systemic racial disparities in funding rates at the National Science Foundation", which received press in outlets such as Science, Eos, and the New York Times, as well as commentary from the broader scientific community and an invitation to the White House for the CHIPS and Science Act signing ceremony. 
+  **Description:** A public presentation by AAPIIG co-founder Dr. Christine Yifeng Chen, who was the lead author of the eLife paper "Systemic racial disparities in funding rates at the National Science Foundation", which received press in outlets such as Science, Eos, and the New York Times, as well as commentary from the broader scientific community and an invitation to the White House for the CHIPS and Science Act signing ceremony. 
   </details>
 
   <details open>
@@ -184,7 +184,7 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Co-MCs: Brendan Anzures and AAPiIG member Jenn Wong-Ala
+  **AAPIIG Organizers:** Co-MCs: Brendan Anzures and AAPIIG member Jenn Wong-Ala
 
   **Description:** Panelists: Dr. Sharon G. Goto (Professor of Psychological Science and Asian American Studies, Pomona College), Dr. Cin-Ty Lee (Harry Carothers Wiess Professor of Geology, Rice University), Dr. Bach Mai Dolly Nguyen (Assistant Professor of Education, Oregon State University), and Dr. Helen H. Yu (Associate Professor of Public Administration and Graduate Chair, University of Hawai'i at Mānoa). Highlighting the underrepresentation of AANHPI in leadership positions, the bamboo ceiling illustrates how the success of AANHPI in occupational attainment has not translated to the highest levels of leadership in both industry and academia. Learn more about what the bamboo ceiling is and how to navigate it from a panel of experts who have navigated through different structures and broad disciplines in higher education and academia!
   </details>
@@ -195,7 +195,7 @@ menu:
 <details id="year-2022" open>
 <summary style="font-size: 24px; font-weight: bold;">2022</summary>
   <details>
-  <summary>&nbsp;<b>December 14</b> - "AAPIiG Town Hall: Accomplishments and Future Vision" AGU Townhall</summary>
+  <summary>&nbsp;<b>December 14</b> - "AAPIIG Town Hall: Accomplishments and Future Vision" AGU Townhall</summary>
 
   **Date:** December 14, 2022
 
@@ -203,13 +203,13 @@ menu:
 
   **Location:** Online and McCormick Place Room S105bc
 
-  **AAPIiG Organizers:** Caroline Juang and Jeemin Rhim
+  **AAPIIG Organizers:** Caroline Juang and Jeemin Rhim
 
-  **Description:** [Abstract link.](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161653) This Town Hall will provide details on the vision, organization, and progress of our group thus far, as well as a space to solicit feedback on effective programming for AAPIiG going forward. This Town Hall will start with an update from AAPIiG leadership and a brief look at demographic data related to AAPI geoscientists currently provided by AGU, NSF and other organizations. There will also be ample opportunity for audience Q&A with the AAPIiG steering committee. We welcome all geosciences community members, including allies and especially those who self-identify as AAPI or individuals of Asian- and/or Pacific Islander-descent working in U.S.-based institutions, to join us.
+  **Description:** [Abstract link.](https://agu.confex.com/agu/fm22/meetingapp.cgi/Session/161653) This Town Hall will provide details on the vision, organization, and progress of our group thus far, as well as a space to solicit feedback on effective programming for AAPIIG going forward. This Town Hall will start with an update from AAPIIG leadership and a brief look at demographic data related to AAPI geoscientists currently provided by AGU, NSF and other organizations. There will also be ample opportunity for audience Q&A with the AAPIIG steering committee. We welcome all geosciences community members, including allies and especially those who self-identify as AAPI or individuals of Asian- and/or Pacific Islander-descent working in U.S.-based institutions, to join us.
   </details>
 
   <details>
-  <summary>&nbsp;<b>December 14</b> - AAPIiG at AGU 2022 Offsite mixer</summary>
+  <summary>&nbsp;<b>December 14</b> - AAPIIG at AGU 2022 Offsite mixer</summary>
 
   **Date:** December 14, 2022
 
@@ -217,13 +217,13 @@ menu:
 
   **Location:** Rock Bottom Brewery, Chicago, IL
 
-  **AAPIiG Organizers:** Caleb Walcott
+  **AAPIIG Organizers:** Caleb Walcott
 
-  **Description:** An in-person get-together for AAPIiG members attending AGU or based in Chicago. 
+  **Description:** An in-person get-together for AAPIIG members attending AGU or based in Chicago. 
   </details>
 
   <details>
-  <summary>&nbsp;<b>Week of Dec 12</b> - AAPIiG at AGU 2022 Recap of conference activities</summary>
+  <summary>&nbsp;<b>Week of Dec 12</b> - AAPIIG at AGU 2022 Recap of conference activities</summary>
 
   **Date:** Week of Dec 12, 2022
 
@@ -231,7 +231,7 @@ menu:
 
   **Location:** Chicago, IL
 
-  **Description:** Thank you to the ~20 AAPIiG members who attended our town hall during AGU! We recapped our mission, our past year of events (a new Board of Directors, conference in-person meetups, AANHPI Heritage Month, Early-Career Researcher (ECR) virtual lunches, new partnership with AGU Mentoring 365, the NSF GOLD-EN EAGER award that has led to the AGILE program), and shared exciting goals forward. We then had an amazing time mingling with our community at Rock Bottom Brewery in downtown Chicago. 
+  **Description:** Thank you to the ~20 AAPIIG members who attended our town hall during AGU! We recapped our mission, our past year of events (a new Board of Directors, conference in-person meetups, AANHPI Heritage Month, Early-Career Researcher (ECR) virtual lunches, new partnership with AGU Mentoring 365, the NSF GOLD-EN EAGER award that has led to the AGILE program), and shared exciting goals forward. We then had an amazing time mingling with our community at Rock Bottom Brewery in downtown Chicago. 
   </details>
 
   <details>
@@ -243,9 +243,9 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Luan Heywood and Thi Truong
+  **AAPIIG Organizers:** Luan Heywood and Thi Truong
 
-  **Description:** A virtual mixer for the AAPIiG-wide community, with a portion devoted towards lighting talks (~3 minutes, any number of slides or graphics) in which AGU presenters shared research with fellow AAPIiG scientists in a super supportive atmosphere!
+  **Description:** A virtual mixer for the AAPIIG-wide community, with a portion devoted towards lighting talks (~3 minutes, any number of slides or graphics) in which AGU presenters shared research with fellow AAPIIG scientists in a super supportive atmosphere!
   </details>
 
   <details>
@@ -261,7 +261,7 @@ menu:
   </details>
 
   <details>
-  <summary>&nbsp;<b>October 10</b> - AAPIiG at GSA 2022 meetup</summary>
+  <summary>&nbsp;<b>October 10</b> - AAPIIG at GSA 2022 meetup</summary>
 
   **Date:** October 10, 2022
 
@@ -269,7 +269,7 @@ menu:
 
   **Location:** Rock Bottom, Denver, CO
 
-  **AAPIiG Organizers:** Karen Pham and Fai Chanchai
+  **AAPIIG Organizers:** Karen Pham and Fai Chanchai
   </details>
 
   <details>
@@ -281,13 +281,13 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Thi Truong
+  **AAPIIG Organizers:** Thi Truong
 
-  **Description:** Open to everyone, including non-GSA attendees. AAPIiG members were invited to schmooze and support GSA attendees who gave fabulous practice lightning talks.
+  **Description:** Open to everyone, including non-GSA attendees. AAPIIG members were invited to schmooze and support GSA attendees who gave fabulous practice lightning talks.
   </details>
 
   <details>
-  <summary>&nbsp;<b>July 13</b> - AAPIiG at Goldschmidt in-person meetup</summary>
+  <summary>&nbsp;<b>July 13</b> - AAPIIG at Goldschmidt in-person meetup</summary>
 
   **Date:** July 13, 2022
 
@@ -307,7 +307,7 @@ menu:
   </details>
 
   <details open>
-  <summary>&nbsp;<b>May 31</b> - AAPIiG-wide Virtual Mixer</summary>
+  <summary>&nbsp;<b>May 31</b> - AAPIIG-wide Virtual Mixer</summary>
 
   **Date:** May 31, 2022
 
@@ -315,7 +315,7 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Christine Chen
+  **AAPIIG Organizers:** Christine Chen
 
   **Description:** We discussed the content of the two APA Heritage Month panel events, discussing AAPI allyship within the geosciences community, used time for networking/catching up, etc.
   </details>
@@ -345,13 +345,13 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Jeemin Rhim
+  **AAPIIG Organizers:** Jeemin Rhim
 
   **Description:** Panelists: Dr. Kanani K.M. Lee (Associate Adjunct Professor at UC Berkeley & Staff Scientist at Lawrence Livermore National Lab), Dr. George I. Matsumoto (Senior Education & Research Specialist at Monterey Bay Aquarium Research Institute), and Dr. Kartik Sheth (CEO/Founder Empowered Earth Alliance)
   </details>
 
   <details open>
-  <summary>&nbsp;<b>May 13</b> - AAPIiG Student Mixer</summary>
+  <summary>&nbsp;<b>May 13</b> - AAPIIG Student Mixer</summary>
 
   **Date:** May 13, 2022
 
@@ -359,7 +359,7 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Caleb Walcott and Kitrea Takata-Glushkoff
+  **AAPIIG Organizers:** Caleb Walcott and Kitrea Takata-Glushkoff
   </details>
 
   <details>
@@ -371,7 +371,7 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Jeemin Rhim
+  **AAPIIG Organizers:** Jeemin Rhim
 
   **Description:** We had Dr. Kartik Sheth (Program Manager for the Science Mission Directorate at NASA Headquarters) join us.
   </details>
@@ -390,11 +390,11 @@ menu:
 
   **Location:** Online and Convention Center Room 350-351
 
-  **Description:** [Abstract link](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/118700). Asian Americans and Pacific Islanders in Geosciences (AAPIiG) is a grassroots, member-driven organization committed to building a community that supports AAPIs within geosciences. Launched during AGU Fall Meeting 2020, we are a new organization seeking to foster a sense of community among AAPI geoscientists; empower current and future AAPI geoscientists in their career goals; embrace the diversity of both historical and contemporary experiences encompassed by communities grouped together by the AAPI categorization; and advocate for justice, equity, diversity, and inclusion issues in solidarity with other marginalized groups. This Town Hall will provide details on the vision, organization, and progress of our group thus far, as well as a space to solicit feedback on effective programming for AAPIiG going forward. This Town Hall will start with an update from AAPIiG leadership and a brief look at demographic data related to AAPI geoscientists currently provided by AGU, NSF and other organizations. There will also be ample opportunity for audience Q&A with the AAPIiG steering committee. We welcome all geosciences community members, including allies and especially those who self-identify as AAPI or individuals of Asian- and/or Pacific Islander-descent working in U.S.-based institutions, to join us.
+  **Description:** [Abstract link](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/118700). Asian Americans and Pacific Islanders in Geosciences (AAPIIG) is a grassroots, member-driven organization committed to building a community that supports AAPIs within geosciences. Launched during AGU Fall Meeting 2020, we are a new organization seeking to foster a sense of community among AAPI geoscientists; empower current and future AAPI geoscientists in their career goals; embrace the diversity of both historical and contemporary experiences encompassed by communities grouped together by the AAPI categorization; and advocate for justice, equity, diversity, and inclusion issues in solidarity with other marginalized groups. This Town Hall will provide details on the vision, organization, and progress of our group thus far, as well as a space to solicit feedback on effective programming for AAPIIG going forward. This Town Hall will start with an update from AAPIIG leadership and a brief look at demographic data related to AAPI geoscientists currently provided by AGU, NSF and other organizations. There will also be ample opportunity for audience Q&A with the AAPIIG steering committee. We welcome all geosciences community members, including allies and especially those who self-identify as AAPI or individuals of Asian- and/or Pacific Islander-descent working in U.S.-based institutions, to join us.
   </details>
 
   <details>
-  <summary>&nbsp;<b>December 13</b> - AAPIiG at AGU In-person Meet-up</summary>
+  <summary>&nbsp;<b>December 13</b> - AAPIIG at AGU In-person Meet-up</summary>
 
   **Date:** December 13, 2021
 
@@ -402,9 +402,9 @@ menu:
 
   **Location:** Courtyard Brewing, New Orleans, LA
 
-  **AAPIiG Organizers:** Caleb Walcott
+  **AAPIIG Organizers:** Caleb Walcott
 
-  **Description:** Informal mixer directly after the AAPIiG AGU townhall event to meet other AAPIiG members in person and just chat!
+  **Description:** Informal mixer directly after the AAPIIG AGU townhall event to meet other AAPIIG members in person and just chat!
   </details>
 
   <details>
@@ -416,9 +416,9 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Thi Truong
+  **AAPIIG Organizers:** Thi Truong
 
-  **Description:** A portion of the virtual mixer was devoted towards lighting talks (1-2 slides or showing posters) to provide a fun and supportive environment for AGU presenters to share research with fellow AAPIiG scientists.
+  **Description:** A portion of the virtual mixer was devoted towards lighting talks (1-2 slides or showing posters) to provide a fun and supportive environment for AGU presenters to share research with fellow AAPIIG scientists.
   </details>
 
   <details>
@@ -440,7 +440,7 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Jeemin Rhim
+  **AAPIIG Organizers:** Jeemin Rhim
 
   **Description:** The first event of a new series called Virtual ECR Lunches! This was an opportunity for early career researchers (ECRs) to connect with a "professional of the month" for a casual lunchtime conversation.  Our first professional of the month was Dr. Yuem Park, a data & earth scientist at KoBold Metals, who shared his experience with his recent transition from Ph.D. to a Data and Earth Scientist position at a startup (KoBold Metals). 
   </details>
@@ -456,7 +456,7 @@ menu:
   </details>
 
   <details>
-  <summary>&nbsp;<b>October 11</b> - AAPIiG at GSA 2021 Meetup</summary>
+  <summary>&nbsp;<b>October 11</b> - AAPIIG at GSA 2021 Meetup</summary>
 
   **Date:** October 11, 2021
 
@@ -464,13 +464,13 @@ menu:
 
   **Location:** Von Ebert Brewing, Portland, OR
 
-  **AAPIiG Organizers:** Caleb Walcott and Thi Truong
+  **AAPIIG Organizers:** Caleb Walcott and Thi Truong
 
   **Description:** Asian Americans and Pacific Islanders in Geosciences' informal in-person get-together during GSA 2021 conference in Portland, Oregon.
   </details>
 
   <details>
-  <summary>&nbsp;<b>October 07</b> - Fall Pre-GSA AAPIiG Virtual Mixer</summary>
+  <summary>&nbsp;<b>October 07</b> - Fall Pre-GSA AAPIIG Virtual Mixer</summary>
 
   **Date:** October 07, 2021
 
@@ -478,13 +478,13 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Luan Heywood and Thi Truong
+  **AAPIIG Organizers:** Luan Heywood and Thi Truong
 
   **Description:** Fall virtual mixer with breakout rooms for different modes of member interaction
   </details>
 
   <details>
-  <summary>&nbsp;<b>June 07</b> - AAPIiG-wide mixer #1</summary>
+  <summary>&nbsp;<b>June 07</b> - AAPIIG-wide mixer #1</summary>
 
   **Date:** June 07, 2021
 
@@ -492,11 +492,11 @@ menu:
 
   **Location:** Zoom
 
-  **Description:** A chance to meet fellow AAPIiG members-- since launch, created a network of 300+ earth science community members in our midst. 
+  **Description:** A chance to meet fellow AAPIIG members-- since launch, created a network of 300+ earth science community members in our midst. 
   </details>
 
   <details>
-  <summary>&nbsp;<b>June 05</b> - AAPIiG LGBTQ+ Pride Month Coffee Hour</summary>
+  <summary>&nbsp;<b>June 05</b> - AAPIIG LGBTQ+ Pride Month Coffee Hour</summary>
 
   **Date:** June 05, 2021
 
@@ -508,7 +508,7 @@ menu:
   </details>
 
   <details open>
-  <summary>&nbsp;<b>June 02</b> - AAPIiG Roundtable: Navigating Intersectionality and Agency in the Geosciences (Part 2)</summary>
+  <summary>&nbsp;<b>June 02</b> - AAPIIG Roundtable: Navigating Intersectionality and Agency in the Geosciences (Part 2)</summary>
 
   ![Image for June 2, 2021 round table.](img/june2_roundtablepart2_twitter.png)
 
@@ -522,7 +522,7 @@ menu:
   </details>
 
   <details>
-  <summary>&nbsp;<b>May 21</b> - AAPIiG Student Coffee Hour #2</summary>
+  <summary>&nbsp;<b>May 21</b> - AAPIIG Student Coffee Hour #2</summary>
 
   **Date:** May 21, 2021
 
@@ -530,13 +530,13 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Caleb Walcott and Kitrea Takata-Glushkoff
+  **AAPIIG Organizers:** Caleb Walcott and Kitrea Takata-Glushkoff
 
   **Description:** Informal “coffee/tea hour” specifically for geoscience students who are AAPI or of Asian/Pacific Islander-descent in a US institution — including undergraduate students, graduate students, recent grads in transition, post-bacs, and prospective students.
   </details>
 
   <details open>
-  <summary>&nbsp;<b>May 20</b> - AAPIiG Roundtable: Navigating Intersectionality and Agency in Geosciences (Part 1)</summary>
+  <summary>&nbsp;<b>May 20</b> - AAPIIG Roundtable: Navigating Intersectionality and Agency in Geosciences (Part 1)</summary>
 
   ![Image for May 20, 2021 round table.](img/may20_roundtablepart1_twitter.png)
 
@@ -560,7 +560,7 @@ menu:
 
   **Location:** Zoom
 
-  **Description:** AAPIiG discussion of the historical context of the Model Minority Myth. Renée Wang, PhD student at Caltech and author of the article, How the Model Minority Myth Harms Us All, gave a short presentation and moderated group discussions.
+  **Description:** AAPIIG discussion of the historical context of the Model Minority Myth. Renée Wang, PhD student at Caltech and author of the article, How the Model Minority Myth Harms Us All, gave a short presentation and moderated group discussions.
   </details>
 
   <details>
@@ -574,15 +574,15 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Sami Chen
+  **AAPIIG Organizers:** Sami Chen
 
-  **Description:** AAPIiG watch party of the documentary Model Minority: Do the Math (2013) and a conversation with filmmaker Dr. Darby Price, Professor in Asian and Asian-American Studies and Native American Studies at Merritt College. Sami Chen, PhD student at Stanford and AAPIiG SC member moderated the conversation.
+  **Description:** AAPIIG watch party of the documentary Model Minority: Do the Math (2013) and a conversation with filmmaker Dr. Darby Price, Professor in Asian and Asian-American Studies and Native American Studies at Merritt College. Sami Chen, PhD student at Stanford and AAPIIG SC member moderated the conversation.
 
   [**Recording Link**](https://vimeo.com/ondemand/modelminoritydothemath)
   </details>
 
   <details>
-  <summary>&nbsp;<b>April 29</b> - AAPIiG Student Coffee Hour</summary>
+  <summary>&nbsp;<b>April 29</b> - AAPIIG Student Coffee Hour</summary>
 
   **Date:** April 29, 2021
 
@@ -590,13 +590,13 @@ menu:
 
   **Location:** Zoom
 
-  **AAPIiG Organizers:** Caleb Walcott
+  **AAPIIG Organizers:** Caleb Walcott
 
   **Description:** An informal “coffee/tea hour” specifically for AAPI-identifying students — including undergraduate students, graduate students, recent grads in transition, post-bacs, and prospective students.
   </details>
 
   <details>
-  <summary>&nbsp;<b>April 28</b> - Official AAPIiG Launch</summary>
+  <summary>&nbsp;<b>April 28</b> - Official AAPIIG Launch</summary>
 
   **Date:** April 28, 2021
 
@@ -604,8 +604,8 @@ menu:
 
   **Location:** Online, Slack, Twitter, Instagram
 
-  **AAPIiG Organizers:** Christine Chen, Dan Ibarra, Kim Lau, SC
+  **AAPIIG Organizers:** Christine Chen, Dan Ibarra, Kim Lau, SC
 
-  **Description:** We reached out to over 200+ STEM and Earth science departments throughout the U.S. to spread the word about AAPIiG!
+  **Description:** We reached out to over 200+ STEM and Earth science departments throughout the U.S. to spread the word about AAPIIG!
   </details>
 </details>

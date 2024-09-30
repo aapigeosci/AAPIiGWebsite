@@ -1,13 +1,13 @@
 ---
-title: AAPIiG Slack
+title: AAPIIG Slack
 weight: '40'
-summary: AAPIiG hosts an online affinity space on Slack.
+summary: AAPIIG hosts an online affinity space on Slack.
 menu:
   main:
     parent: Get Involved
     weight: 40
 ---
-APIiG hosts an online affinity space on [Slack](https://slack.com), a free team-based communication platform. Currently, the Slack workspace is open only to geoscience community members who self-identify as AAPI or those of Asian- and Pacific Islander-descent working in U.S.-based institutions. Community members include undergraduates, graduate students, recent graduates in transition, post-baccalaureate, and prospective students, postdocs, faculty, educators, administrators, industry and non-profit professionals, federal or state employees, researchers, retirees, and more.
+AAPIIG hosts an online affinity space on [Slack](https://slack.com), a free team-based communication platform. Currently, the Slack workspace is open only to geoscience community members who self-identify as AAPI or those of Asian- and Pacific Islander-descent working in U.S.-based institutions. Community members include undergraduates, graduate students, recent graduates in transition, post-baccalaureate, and prospective students, postdocs, faculty, educators, administrators, industry and non-profit professionals, federal or state employees, researchers, retirees, and more.
 
 We recognize that the “AAPI” categorization is very broad and has been historically interpreted in several different ways. We also recognize that many individuals are at different stages of identity formation, especially those of mixed race, transient immigrant and citizenship status, and more. If you believe you may belong, you likely do, and you are welcome to join. Please fill out our [Sign Up Form](getinvolved/joinus) for access to the Slack workspace.
 
