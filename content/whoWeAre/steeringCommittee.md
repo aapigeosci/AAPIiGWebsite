@@ -1,6 +1,7 @@
 ---
 title: Steering Committee
 summary: The leaders and organizers who make AAPIIG happen.
+draft: true
 menu:
   main: 
     parent: Who We Are
