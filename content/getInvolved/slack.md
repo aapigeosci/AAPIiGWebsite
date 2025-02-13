@@ -1,16 +1,18 @@
 ---
 title: AAPIIG Slack
 weight: '40'
+draft: false
 summary: AAPIIG hosts an online affinity space on Slack.
 menu:
   main:
     parent: Get Involved
     weight: 40
 ---
-AAPIIG hosts an online affinity space on [Slack](https://slack.com), a free team-based communication platform. Currently, the Slack workspace is open only to geoscience community members who self-identify as AAPI or those of Asian- and Pacific Islander-descent working in U.S.-based institutions. Community members include undergraduates, graduate students, recent graduates in transition, post-baccalaureate, and prospective students, postdocs, faculty, educators, administrators, industry and non-profit professionals, federal or state employees, researchers, retirees, and more.
+AAPIIG hosts an online affinity space on [Slack](https://slack.com), a free team-based communication platform. Community members include undergraduates, graduate students, recent graduates in transition, post-baccalaureate, and prospective students, postdocs, faculty, educators, administrators, industry and non-profit professionals, federal or state employees, researchers, retirees, and more.
 
 We recognize that the “AAPI” categorization is very broad and has been historically interpreted in several different ways. We also recognize that many individuals are at different stages of identity formation, especially those of mixed race, transient immigrant and citizenship status, and more. If you believe you may belong, you likely do, and you are welcome to join. Please fill out our [Sign Up Form](getinvolved/joinus) for access to the Slack workspace.
 
+<!--
 In our Slack workspace, there are several channels over which individuals can meet others of shared background and identity:
 
 *By Regional Grouping (from* [*api-gbv.org*](https://www.api-gbv.org)*)*
@@ -29,4 +31,4 @@ In our Slack workspace, there are several channels over which individuals can me
 * **\#unite-aapi-immigrants**
 * **\#unite-aapi-disabled**
 
-and many more to come\!
+and many more to come\! ] -->

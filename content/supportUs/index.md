@@ -10,7 +10,7 @@ Asian American and Pacific Islanders in Geosciences (AAPIIG) strives to empower 
 
 ### Near-term goals
 
-In 2023, we hope to officially incorporate AAPIIG as a nonprofit and apply for tax-exempt status. This will allow us to secure long-term sustainability as a group that is primarily run by student volunteers and early career researchers. We will use part of the contributions we receive in the near future to cover the upfront cost for the incorporation process. Any and all of your contributions will be greatly appreciated!
+In 2025, we hope to officially incorporate AAPIIG as a nonprofit and apply for tax-exempt status. This will allow us to secure long-term sustainability as a group that is primarily run by student volunteers and early career researchers. We will use part of the contributions we receive in the near future to cover the upfront cost for the incorporation process. Any and all of your contributions will be greatly appreciated!
 
 ### What proceeds will support: Long-term goals
 
