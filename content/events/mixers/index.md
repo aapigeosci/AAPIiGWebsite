@@ -4,6 +4,7 @@ menu:
   main:
     parent: Events
 weight: 50
+draft: true
 ---
 
 There are no upcoming mixers at this time. Explore our [event archive](https://aapigeosci.org/events/oldevents/).
