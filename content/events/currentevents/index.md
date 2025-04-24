@@ -1,5 +1,5 @@
 ---
-title: Upcoming 2025 APA Heritage Month Events
+title: Upcoming 2025 AANHPI Heritage Month Events
 menu: 
   main:
     parent: Events
