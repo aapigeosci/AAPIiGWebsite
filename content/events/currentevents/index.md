@@ -1,12 +1,15 @@
 ---
-title: Upcoming Events
+title: Upcoming 2025 APA Heritage Month Events
 menu: 
   main:
     parent: Events
 weight: 50
 ---
 
-There are no upcoming events at this time. Explore our [event archive](https://aapigeosci.org/events/oldevents/).
+# AAPIIG-wide Virtual Mixer on May 02, 2025.
+
+<!--- There are no upcoming events at this time. Explore our [event archive](https://aapigeosci.org/events/oldevents/).
+-->
 
 <!---
 # LGBTQIA+ Virtual Mixer

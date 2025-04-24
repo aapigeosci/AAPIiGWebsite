@@ -3,8 +3,8 @@ title: AAPiG
 menu: main
 weight: -100
 banner:
-  enabled: false
-  message: "Explore Our Upcoming Events!"
+  enabled: true
+  message: "Explore Our Upcoming 2025 APA Heritage Month Events!"
   link: "https://aapigeosci.org/events/currentevents/"
 indexText: >-
   # Asian Americans and Pacific Islanders in Geosciences
