@@ -6,7 +6,13 @@ menu:
 weight: 50
 ---
 
-# AAPIIG-wide Virtual Mixer on May 02, 2025.
+# Upcoming 2025 AANHPI Heritage Month Events
+
+![Overaching 2025 AANHPI Heritage Month Events](AANHPI2025_public_events.png)
+
+## AAPIIG Virtual Mixer on May 02, 2025
+
+![Virtual mixer flyer on May 02, 2025](AANHPI2025_virtual_mixer.png)
 
 <!--- There are no upcoming events at this time. Explore our [event archive](https://aapigeosci.org/events/oldevents/).
 -->
