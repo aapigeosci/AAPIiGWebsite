@@ -10,9 +10,34 @@ weight: 50
 
 ![Overaching 2025 AANHPI Heritage Month Events](AANHPI2025_public_events.png)
 
-## AAPIIG Virtual Mixer on May 02, 2025
+## May 02, 2025: AAPIIG Virtual Mixer
 
 ![Virtual mixer flyer on May 02, 2025](AANHPI2025_virtual_mixer.png)
+
+## May 14, 2025: "Congressional Advocacy for Scientists" Panel
+
+![Flyer for Congressional Advocacy for Scientists Panel](2025_AANHPI_congressional_advocacy.pdf.png)
+
+- Wednesday, May 14, 2025, 8:00-9:30 HST / 11:00-12:30 PST / 14:00-15:30 EST
+- [Register and learn more](http://www.tinyurl.com/aapiig-advocacy) 
+- Three panelists will discuss effective ways to amplify one's voice by communicating with elected officials and policymakers as well as how to leverage one’s professional expertise and personal heritage in the process. Each person will discuss their involvement with congressional policy, followed by a moderated Q&A and open Q&A with the audience.
+- Panelists:
+  - **Dr. Christine Ray** was the 2023-24 AGI Congressional Geoscience Fellow and 2022-23 GSA Science Policy Fellow. She received her doctorate in physics from the University of Texas at San Antonio and began her journey into policy by advocating for NASA science in Congress with organizations like The Planetary Society and American Astronomical Society.
+  - **Dr. Edward Lo** is an assistant professor of geology at Georgia Southern University, with a research program in sedimentary geology. Edward was a 2022 GSA/Congressional Visits Day grantee and moderated a Seminar on Indigenous Peoples with the support of Taiwan in New York in 2024 and 2025.
+  - **Dr. Robby Goldman** is the current GSA-USGS Congressional Science Fellow, advising U.S. Senator Mazie K. Hirono (D-HI) on natural hazard management and STEM education and research policy. Robby received his geology doctorate from the University of Illinois at Urbana-Champaign (UIUC), and has expertise in volcanic hazard modeling and communication.
+- Questions about this event can be directed to Jeemin Rhim [(jrhim@ucsb.edu)](mailto:jrhim@ucsb.edu)
+
+## Week of May 19: "Navigating Career Transitions feat. Black in Geoscience" Panel
+- Date TBA: May 20-23 (watch AAPIIG listserve or check back at later time for time/date announcement and registration link)
+- This panel discussion (co-organized by Black in Geoscience and AAPIIG) is designed to showcase individuals who have leveraged their academic training to transition into careers in government, industry, and nonprofit sectors. As new industries and technologies come onboard, our field is rapidly evolving and new career prospects are opening outside of universities and research-based work. We envision this event as a resource for students and early-career researchers during these current times of rapidly changing outlooks on faculty and federal government hiring, and it will have a portion of time designated for audience Q&A.
+
+
+## Week of May 27: LGBTQIA+ Virtual Mixer update 
+- Date TBA: May 27-30, online
+- For AAPIIG members who identify as LGBTQIA+
+- Please help us decide the time by responding before 5/16 with your favorite animal in the scheduling poll [here](https://www.when2meet.com/?30390623-UwSzH)
+
+
 
 <!--- There are no upcoming events at this time. Explore our [event archive](https://aapigeosci.org/events/oldevents/).
 -->
