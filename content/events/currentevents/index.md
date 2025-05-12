@@ -8,7 +8,7 @@ weight: 50
 
 # Upcoming 2025 AANHPI Heritage Month Events
 
-![Overaching 2025 AANHPI Heritage Month Events](AANHPI2025_public_events.png)
+![Overaching 2025 AANHPI Heritage Month Events](HMeventflyer.png)
 
 ## May 02, 2025: AAPIIG Virtual Mixer
 
@@ -27,10 +27,19 @@ weight: 50
   - **Dr. Robby Goldman** is the current GSA-USGS Congressional Science Fellow, advising U.S. Senator Mazie K. Hirono (D-HI) on natural hazard management and STEM education and research policy. Robby received his geology doctorate from the University of Illinois at Urbana-Champaign (UIUC), and has expertise in volcanic hazard modeling and communication.
 - Questions about this event can be directed to Jeemin Rhim [(jrhim@ucsb.edu)](mailto:jrhim@ucsb.edu)
 
-## Week of May 19: "Navigating Career Transitions feat. Black in Geoscience" Panel
-- Date TBA: May 20-23 (watch AAPIIG listserve or check back at later time for time/date announcement and registration link)
-- This panel discussion (co-organized by Black in Geoscience and AAPIIG) is designed to showcase individuals who have leveraged their academic training to transition into careers in government, industry, and nonprofit sectors. As new industries and technologies come onboard, our field is rapidly evolving and new career prospects are opening outside of universities and research-based work. We envision this event as a resource for students and early-career researchers during these current times of rapidly changing outlooks on faculty and federal government hiring, and it will have a portion of time designated for audience Q&A.
+## May 23, 2025: "Navigating Career Transitions" Panel co-organized by Black in Geoscience
 
+![Flyer for Navigating Career Transitions](AANHPI2024_Panel2EventPosterFinal.png)
+
+- Friday, May 23, 12:00 pm Eastern/11:00 am Central/9:00 am Pacific, 60 minutes
+- [Register and learn more](https://tinyurl.com/aapiig-career)
+- This panel discussion is designed to showcase individuals who have leveraged their academic training to transition into careers in government, industry, and nonprofit sectors. As new industries and technologies come onboard, our field is rapidly evolving and new career prospects are opening outside of universities and research-based work. We envision this event as a resource for students and early-career researchers during these current times of rapidly changing outlooks on faculty and federal government hiring, and it will have a portion of time designated for audience Q&A.
+- Panelists:
+  - **Dr. Byron Winston** is an Environmental Scientist with a proven track record of 15+ years managing and executing environmental projects in lakes, rivers, and contaminated groundwater. He currently leads AECOM's Algae to Sustainable Agriculture program, pioneering the use of algae as a sustainable fertilizer supplement to enhance soil carbon sequestration, improve water quality, and mitigate harmful algal blooms. Dr. Winston received his Bachelors from  Midwestern State University in 2003, and Masters and PhD from University of Arkansas in Cell and Molecular Biology and Environmental Dynamics respectively.
+  - **Dr. Sophie Chu** is the principal oceanographer and director of monitoring, reporting, and verification at Captura, a marine carbon dioxide removal startup company based in Pasadena, CA. She has spent over a decade developing and testing ocean carbon sensor technology to better understand carbon cycling. Prior to joining Captura, Sophie was a research scientist at the University of Washington and NOAA’s Pacific Marine Environmental Lab in Seattle, WA. Sophie has her B.S. in chemical engineering from Columbia University and Ph.D. in chemical oceanography from MIT and Woods Hole Oceanographic Institution.
+  - **Dr. Kieron Prince**, Associate Professor of Geology at Broward College, is a first-generation college student and immigrant with a passion for teaching. Dr. Prince received his BSc from Loma Linda University in 2013, his MSc from Baylor University in 2015, and a PhD from Texas A&M University in 2020, where his research investigated the impacts of strong ocean-bottom currents on the alteration of carbonate sediments. 
+  - **Dr. Susan Park** is the Executive Director of the Coastal and Estuarine Research Federation (CERF), an international scientific society dedicated to advancing the understanding and wise stewardship of estuarine and coastal ecosystems worldwide. Prior to this appointment, Susan was the Associate Director of Virginia Sea Grant, based at the Virginia Institute of Marine Science and College of William & Mary; Senior Program Officer with the Ocean Studies Board of The National Academies of Science, Engineering, and Medicine; Adjunct Professor at Trinity Washington University; and NOAA Coastal Management Fellow with the Massachusetts Office of Coastal Zone Management. Susan received her PhD in Oceanography from the University of Delaware, and her MA and BA in Biology from the University of Pennsylvania.
+ - Questions about this event can be directed to Luan Heywood [(luan.heywood@gmail.com)](mailto:luan.heywood@gmail.com)
 
 ## Week of May 27: LGBTQIA+ Virtual Mixer update 
 - Date TBA: May 27-30, online
