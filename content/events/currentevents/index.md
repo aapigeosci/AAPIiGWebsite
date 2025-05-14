@@ -29,7 +29,7 @@ weight: 50
 
 ## May 23, 2025: "Navigating Career Transitions" Panel co-organized by Black in Geoscience
 
-![Flyer for Navigating Career Transitions](AANHPI2024_Panel2EventPosterFinal.png)
+![Flyer for Navigating Career Transitions](2025_AANHPI_career_transitions.png)
 
 - Friday, May 23, 12:00 pm Eastern/11:00 am Central/9:00 am Pacific, 60 minutes
 - [Register and learn more](https://tinyurl.com/aapiig-career)
