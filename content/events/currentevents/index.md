@@ -10,11 +10,17 @@ weight: 50
 
 ![Overaching 2025 AANHPI Heritage Month Events](HMeventflyer.png)
 
-## May 02, 2025: AAPIIG Virtual Mixer
+<details>
+
+<summary> <b> May 02, 2025: AAPIIG Virtual Mixer </b> </summary>
 
 ![Virtual mixer flyer on May 02, 2025](AANHPI2025_virtual_mixer.png)
 
-## May 14, 2025: "Congressional Advocacy for Scientists" Panel
+</details>
+
+<details>
+
+<summary> <b> May 14, 2025: "Congressional Advocacy for Scientists" Panel </b> </summary>
 
 ![Flyer for Congressional Advocacy for Scientists Panel](2025_AANHPI_congressional_advocacy.pdf.png)
 
@@ -27,7 +33,11 @@ weight: 50
   - **Dr. Robby Goldman** is the current GSA-USGS Congressional Science Fellow, advising U.S. Senator Mazie K. Hirono (D-HI) on natural hazard management and STEM education and research policy. Robby received his geology doctorate from the University of Illinois at Urbana-Champaign (UIUC), and has expertise in volcanic hazard modeling and communication.
 - Questions about this event can be directed to Jeemin Rhim [(jrhim@ucsb.edu)](mailto:jrhim@ucsb.edu)
 
-## May 23, 2025: "Navigating Career Transitions" Panel co-organized by Black in Geoscience
+</details>
+
+<details>
+
+<summary> <b> May 23, 2025: "Navigating Career Transitions" Panel co-organized by Black in Geoscience </b> </summary>
 
 ![Flyer for Navigating Career Transitions](2025_AANHPI_career_transitions.png)
 
@@ -41,10 +51,17 @@ weight: 50
   - **Dr. Susan Park** is the Executive Director of the Coastal and Estuarine Research Federation (CERF), an international scientific society dedicated to advancing the understanding and wise stewardship of estuarine and coastal ecosystems worldwide. Prior to this appointment, Susan was the Associate Director of Virginia Sea Grant, based at the Virginia Institute of Marine Science and College of William & Mary; Senior Program Officer with the Ocean Studies Board of The National Academies of Science, Engineering, and Medicine; Adjunct Professor at Trinity Washington University; and NOAA Coastal Management Fellow with the Massachusetts Office of Coastal Zone Management. Susan received her PhD in Oceanography from the University of Delaware, and her MA and BA in Biology from the University of Pennsylvania.
  - Questions about this event can be directed to Luan Heywood [(luan.heywood@gmail.com)](mailto:luan.heywood@gmail.com)
 
-## Week of May 27: LGBTQIA+ Virtual Mixer update 
-- Date TBA: May 27-30, online
+</details>
+
+<details open>
+
+<summary> <b> May 30, 2025: LGBTQIA+ Virtual Mixer </b> </summary>
+
+![Flyer for LGBTQIA+ Virtual Mixer](AANHPI2025_LGBT_Mixer.png)
+
+- Friday, May 30, 2025 3:00 pm Eastern/2:00 pm Central/12:00 am Pacific/9:00 am Hawai'i, 60 minutes
 - For AAPIIG members who identify as LGBTQIA+
-- Please help us decide the time by responding before 5/16 with your favorite animal in the scheduling poll [here](https://www.when2meet.com/?30390623-UwSzH)
+- Location: Zoom, check the AAPIIG listserv/Slack for link
 
 
 
