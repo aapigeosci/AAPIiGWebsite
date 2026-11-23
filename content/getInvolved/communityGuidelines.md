@@ -51,7 +51,7 @@ If you have questions about these rules, the community, or how you can participa
 
 **Reporting unacceptable behavior:**
 
-If you experience or witness unacceptable behavior, please notify an AAPIIG organizer promptly, in person or by phone if you have their number. You can also reach the organizers through our [contact form](/contact/).
+If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify an AAPIIG organizer in-person, [by email](mailto:aapigeosci.adm@gmail.com), and/or phone. We also operate an anonymous feedback form [here](https://docs.google.com/forms/d/e/1FAIpQLSfBt8u6qHpk4ulBojyNaJ0aU3JpNPmAJfBO2hYwJRgtgWC2Tw/viewform).
 
 Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety, or a criminal act, is expected to contact 911. Those witnessing a potential criminal act should also take actions necessary to maintain their own personal safety.
 

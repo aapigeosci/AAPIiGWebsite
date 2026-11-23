@@ -15,7 +15,7 @@ Asian Americans and Pacific Islanders in Geosciences (AAPIIG) is a grassroots, m
 
 **Example Initiatives and Activities**
 
-Past AAPIIG initiatives and activities have included the following:
+Below are example initiatives and activities we have organized in the past to achieve our mission:
 
 - networking events for AAPI geoscientists to connect;
 - a mentorship network for AAPI geoscientists across career stages and sectors;

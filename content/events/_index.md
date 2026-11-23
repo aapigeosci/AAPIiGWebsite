@@ -9,29 +9,179 @@ aliases:
 
 # Event Archive
 
-Here is a partial list of events hosted by or in collaboration with AAPIIG. We update this archive periodically. For upcoming events, [subscribe to the AAPIIG email list](/getinvolved/joinus/). We organize in-person meetups at AGU, GSA, and other conferences based on member interest. If you would like to help organize a meetup, [contact the organizers](/contact/).
+Here is a partial list of past events hosted by or in collaboration with AAPIIG. This page may not be updated frequently. For information on current upcoming events, please [subscribe to our listserv](/getinvolved/joinus/). We typically hold in-person meetups at AGU, GSA, and other conferences depending on member-demand. If you are interested in helping to organize a conference meetup, please [reach out!](mailto:aapigeosci.adm@gmail.com)
 
-[2026](#year-2026) · [2025](#year-2025) · [2024](#year-2024) · [2023](#year-2023) · [2022](#year-2022) · [2021](#year-2021)
+[2026](/events/#year-2026) · [2025](/events/#year-2025) · [2024](/events/#year-2024) · [2023](/events/#year-2023) · [2022](/events/#year-2022) · [2021](/events/#year-2021)
 
-## 2026 {#year-2026}
+<details id="year-2026" open>
+<summary style="font-size: 24px; font-weight: bold;">2026</summary>
 
-- **October 11** — GSA Connects meetup with the Indigenous Geoscience Community and other affinity organizations in Denver, Colorado.
-- **May 29** — LGBTQIA+ Pride Month virtual social with AGQ.
-- **May 14** — Building Effective Collaborations: Perspectives from AAPI Scientists in Cryosphere Research, with USAPECS.
+<details>
+<summary>&nbsp;<b>October 11</b> - GSA Connects meetup with the Indigenous Geoscience Community and other affinity organizations in Denver, Colorado</summary>
 
-## 2025 {#year-2025}
+**Date:** October 11, 2026
 
-- **December 17** — American Geophysical Union Annual Meeting meetup with the Indigenous Geoscience Community in New Orleans, Louisiana.
-- **June 10** — Goldschmidt Conference meetup in Prague, Czech Republic.
-- **May 2–30** — [AANHPI Heritage Month events and flyers](/events/currentevents/). The series included two virtual mixers and panels on congressional advocacy and career transitions.
-- **March 10** — Lunar and Planetary Science Conference meetup in The Woodlands, Texas.
+**Format:** In-person
+
+**Location:** Denver, Colorado
+
+</details>
+
+<details>
+<summary>&nbsp;<b>May 29</b> - LGBTQIA+ Pride Month virtual social with AGQ</summary>
+
+![Flyer for the May 29 LGBTQIA+ Pride Month virtual social with AGQ](img/aapiig-agq-052926.png)
+
+**Date:** May 29, 2026
+
+**Format:** Virtual
+
+**Location:** Zoom
+
+</details>
+
+<details>
+<summary>&nbsp;<b>May 14</b> - Building Effective Collaborations: Perspectives from AAPI Scientists in Cryosphere Research, with USAPECS</summary>
+
+![Flyer for the May 14 Building Effective Collaborations panel on cryosphere research with USAPECS](img/AAPIIG_USAPECS_May_14_Cryosphere_Event.png)
+
+**Date:** May 14, 2026
+
+**Format:** Virtual
+
+**Location:** Zoom
+
+</details>
+
+
+</details>
+
+<hr style="border:0.5px solid black">
+
+<details id="year-2025" open>
+<summary style="font-size: 24px; font-weight: bold;">2025</summary>
+
+<details>
+<summary>&nbsp;<b>December 17</b> - American Geophysical Union Annual Meeting meetup with the Indigenous Geoscience Community in New Orleans, Louisiana</summary>
+
+**Date:** December 17, 2025
+
+**Format:** In-person
+
+**Location:** New Orleans, Louisiana
+
+</details>
+
+<details>
+<summary>&nbsp;<b>June 10</b> - Goldschmidt Conference meetup in Prague, Czech Republic</summary>
+
+**Date:** June 10, 2025
+
+**Format:** In-person
+
+**Location:** Prague, Czech Republic
+
+</details>
+
+<details>
+<summary>&nbsp;<b>May 30</b> - LGBTQIA+ Virtual Mixer</summary>
+
+![Flyer for LGBTQIA+ Virtual Mixer](img/AANHPI2025_LGBT_Mixer.png)
+
+- Friday, May 30, 2025 3:00 pm Eastern/2:00 pm Central/12:00 am Pacific/9:00 am Hawai'i, 60 minutes
+- For AAPIIG members who identify as LGBTQIA+
+
+</details>
+
+<details>
+<summary>&nbsp;<b>May 23</b> - "Navigating Career Transitions" Panel co-organized by Black in Geoscience</summary>
+
+![Flyer for Navigating Career Transitions](img/2025_AANHPI_career_transitions.png)
+
+- Friday, May 23, 12:00 pm Eastern/11:00 am Central/9:00 am Pacific, 60 minutes
+- This panel discussion is designed to showcase individuals who have leveraged their academic training to transition into careers in government, industry, and nonprofit sectors. As new industries and technologies come onboard, our field is rapidly evolving and new career prospects are opening outside of universities and research-based work. We envision this event as a resource for students and early-career researchers during these current times of rapidly changing outlooks on faculty and federal government hiring, and it will have a portion of time designated for audience Q&A.
+- Panelists:
+  - **Dr. Byron Winston** is an Environmental Scientist with a proven track record of 15+ years managing and executing environmental projects in lakes, rivers, and contaminated groundwater. He currently leads AECOM's Algae to Sustainable Agriculture program, pioneering the use of algae as a sustainable fertilizer supplement to enhance soil carbon sequestration, improve water quality, and mitigate harmful algal blooms. Dr. Winston received his Bachelors from  Midwestern State University in 2003, and Masters and PhD from University of Arkansas in Cell and Molecular Biology and Environmental Dynamics respectively.
+  - **Dr. Sophie Chu** is the principal oceanographer and director of monitoring, reporting, and verification at Captura, a marine carbon dioxide removal startup company based in Pasadena, CA. She has spent over a decade developing and testing ocean carbon sensor technology to better understand carbon cycling. Prior to joining Captura, Sophie was a research scientist at the University of Washington and NOAA’s Pacific Marine Environmental Lab in Seattle, WA. Sophie has her B.S. in chemical engineering from Columbia University and Ph.D. in chemical oceanography from MIT and Woods Hole Oceanographic Institution.
+  - **Dr. Kieron Prince**, Associate Professor of Geology at Broward College, is a first-generation college student and immigrant with a passion for teaching. Dr. Prince received his BSc from Loma Linda University in 2013, his MSc from Baylor University in 2015, and a PhD from Texas A&M University in 2020, where his research investigated the impacts of strong ocean-bottom currents on the alteration of carbonate sediments. 
+  - **Dr. Susan Park** is the Executive Director of the Coastal and Estuarine Research Federation (CERF), an international scientific society dedicated to advancing the understanding and wise stewardship of estuarine and coastal ecosystems worldwide. Prior to this appointment, Susan was the Associate Director of Virginia Sea Grant, based at the Virginia Institute of Marine Science and College of William & Mary; Senior Program Officer with the Ocean Studies Board of The National Academies of Science, Engineering, and Medicine; Adjunct Professor at Trinity Washington University; and NOAA Coastal Management Fellow with the Massachusetts Office of Coastal Zone Management. Susan received her PhD in Oceanography from the University of Delaware, and her MA and BA in Biology from the University of Pennsylvania.
+ - Questions about this event can be directed to Luan Heywood [(luan.heywood@gmail.com)](mailto:luan.heywood@gmail.com)
+
+</details>
+
+<details>
+<summary>&nbsp;<b>May 14</b> - "Congressional Advocacy for Scientists" Panel</summary>
+
+![Flyer for Congressional Advocacy for Scientists Panel](img/2025_AANHPI_congressional_advocacy.pdf.png)
+
+- Wednesday, May 14, 2025, 8:00-9:30 HST / 11:00-12:30 PST / 14:00-15:30 EST
+- Three panelists will discuss effective ways to amplify one's voice by communicating with elected officials and policymakers as well as how to leverage one’s professional expertise and personal heritage in the process. Each person will discuss their involvement with congressional policy, followed by a moderated Q&A and open Q&A with the audience.
+- Panelists:
+  - **Dr. Christine Ray** was the 2023-24 AGI Congressional Geoscience Fellow and 2022-23 GSA Science Policy Fellow. She received her doctorate in physics from the University of Texas at San Antonio and began her journey into policy by advocating for NASA science in Congress with organizations like The Planetary Society and American Astronomical Society.
+  - **Dr. Edward Lo** is an assistant professor of geology at Georgia Southern University, with a research program in sedimentary geology. Edward was a 2022 GSA/Congressional Visits Day grantee and moderated a Seminar on Indigenous Peoples with the support of Taiwan in New York in 2024 and 2025.
+  - **Dr. Robby Goldman** is the current GSA-USGS Congressional Science Fellow, advising U.S. Senator Mazie K. Hirono (D-HI) on natural hazard management and STEM education and research policy. Robby received his geology doctorate from the University of Illinois at Urbana-Champaign (UIUC), and has expertise in volcanic hazard modeling and communication.
+- Questions about this event can be directed to Jeemin Rhim [(jrhim@ucsb.edu)](mailto:jrhim@ucsb.edu)
+
+</details>
+
+<details>
+<summary>&nbsp;<b>May 2</b> - AAPIIG Virtual Mixer</summary>
+
+![Virtual mixer flyer on May 02, 2025](img/AANHPI2025_virtual_mixer.png)
+
+</details>
+<details>
+<summary>&nbsp;<b>March 10</b> - Lunar and Planetary Science Conference meetup in The Woodlands, Texas</summary>
+
+**Date:** March 10, 2025
+
+**Format:** In-person
+
+**Location:** The Woodlands, Texas
+
+</details>
+
+
+</details>
+
+<hr style="border:0.5px solid black">
 
 <details id="year-2024" open>
 <summary style="font-size: 24px; font-weight: bold;">2024</summary>
 
-- **September 23** — GSA Connects meetup in Anaheim, California.
-- **August 21** — Goldschmidt Conference meetup in Chicago, Illinois.
-- **June 18** — North American Paleo Convention meetup in Ann Arbor, Michigan.
+<details>
+<summary>&nbsp;<b>September 23</b> - GSA Connects meetup in Anaheim, California</summary>
+
+**Date:** September 23, 2024
+
+**Format:** In-person
+
+**Location:** Anaheim, California
+
+</details>
+
+<details>
+<summary>&nbsp;<b>August 21</b> - Goldschmidt Conference meetup in Chicago, Illinois</summary>
+
+**Date:** August 21, 2024
+
+**Format:** In-person
+
+**Location:** Chicago, Illinois
+
+</details>
+
+<details>
+<summary>&nbsp;<b>June 18</b> - North American Paleo Convention meetup in Ann Arbor, Michigan</summary>
+
+**Date:** June 18, 2024
+
+**Format:** In-person
+
+**Location:** Ann Arbor, Michigan
+
+</details>
+
 
   <details>
   <summary>&nbsp;<b>May 30</b> - LGBTQIA+ Virtual Mixer</summary>
@@ -46,7 +196,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
 
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 28</b> - Virtual Workshop: Exploring Personal Heritage in Academic and Professional Paths</summary>
 
   ![Image showing Personal Heritage Panel May 2024.](img/AANHPI2024_Panel_2_Event_Poster.png)
@@ -67,12 +217,12 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   - Caroline Juang is a PhD candidate, Department of Earth and Environmental Sciences at Columbia University, who studies wildfires in the western U.S. and is active in art, digital art, illustration (for example, AAPIIG's logo and event flyers). Twitter: @caro_in_space
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 9</b> - Virtual Panel: Natural Disasters: Mitigation, Response, Recovery and the AANHPI Community</summary>
 
   ![Image showing Natural Disaster Panel May 2024.](img/AANHPI2024_Panel_1_Event_Poster.png)
 
-  **Date:** March 9, 2024
+  **Date:** May 9, 2024
 
   **Format:** Virtual
 
@@ -170,7 +320,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** We were excited to see new and familiar faces at the 2023 AGU Fall Meeting this year in San Francisco, CA! We had sunny weather all week, making it easy to trek to the convention center and to our mixers. AAPIIG said hello at AGU's "Inclusive Science for All" reception on Monday. On Tuesday, we held four Pods in the poster hall where members met each other and shared stories on a cozy circular couch. Finally, on Wednesday, we held an offsite mixer at 21st Amendment Brewery where we celebrated the mid-week conference over dinner and drinks! Thank you all for coming out and sharing your enthusiasm for science and for our community! 
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 31</b> - Racial Disparities in Science Funding: Follow-up Discussion Workshop (BIPOC-only)</summary>
 
   **Date:** May 31, 2023
@@ -182,7 +332,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** Discussion was led by AAPIIG Steering Committee and co-organizers Akilah Alwan (Graduate Research Fellow, Auburn University; National Association of Black Geoscientists) and Dr. Darryl Reano (Assistant Professor, School of Earth and Space Exploration, Arizona State University; Acoma Pueblo). This was a closed 1-hour discussion following the public talk by Dr. Christine Yifeng Chen about systemic funding disparities. This discussion made space for participants to reflect on disconnects between broader scientific culture and their identities as members of marginalized groups in the context of persistent funding disparities. 
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 31</b> - Talk: "Racial Disparities in Science Funding"</summary>
 
   ![2023 International Scholars panel image](img/2023_AANHPI_Heritage_Month_racial_disparities_talk.png)
@@ -196,7 +346,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** A public presentation by AAPIIG co-founder Dr. Christine Yifeng Chen, who was the lead author of the eLife paper "Systemic racial disparities in funding rates at the National Science Foundation", which received press in outlets such as Science, Eos, and the New York Times, as well as commentary from the broader scientific community and an invitation to the White House for the CHIPS and Science Act signing ceremony. 
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 09</b> - Panel: “Navigating the Bamboo Ceiling: How AANHPI experience the glass ceiling from a social scientist and geoscientist perspective”</summary>
 
   ![2023 International Scholars panel image](img/2023_AANHPI_Heritage_Month_bamboo_ceiling_panel.png)
@@ -329,7 +479,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Location:** Zoom
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 31</b> - AAPIIG-wide Virtual Mixer</summary>
 
   **Date:** May 31, 2022
@@ -343,7 +493,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** We discussed the content of the two APA Heritage Month panel events, discussing AAPI allyship within the geosciences community, used time for networking/catching up, etc.
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 27</b> - Panel: International Scholars in Geosciences</summary>
 
   ![Allyship as AAPI geoscientists image](img/2022_AANHPI_Heritage_Month_international_scholars_panel.png)
@@ -357,7 +507,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** A panel event featuring three early-career oceanographers speaking on the topic of International Scholars in the Earth Sciences: Dr. Alejandra Sanchez-Rios, Dr. Yige Zhang and Dr. Yackar Mauzole. Conversations and scholarship about race and structural inequity in United States academic science typically focus on U.S.-born students and scholars, for whom there is more longitudinal data collected. Immigrant scholars have distinct career narratives from U.S.-born students and scholars of color, while representing a substantial proportion of non-white geoscientists working in the U.S. This panel aimed to spotlight these experiences by bringing together three earth scientists who have had transnational careers, so that attendees left with insights into how international scholar experiences interplay with efforts to diversity STEM.
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 20</b> - Panel: Allyship as AAPI geoscientists</summary>
 
   ![Allyship as AAPI geoscientists image](img/2022_APA_Heritage_Month_allyship_panel.png)
@@ -373,7 +523,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** Panelists: Dr. Kanani K.M. Lee (Associate Adjunct Professor at UC Berkeley & Staff Scientist at Lawrence Livermore National Lab), Dr. George I. Matsumoto (Senior Education & Research Specialist at Monterey Bay Aquarium Research Institute), and Dr. Kartik Sheth (CEO/Founder Empowered Earth Alliance)
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 13</b> - AAPIIG Student Mixer</summary>
 
   **Date:** May 13, 2022
@@ -530,7 +680,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** A casual space to chat and celebrate our experiences as LGBTQ+ AAPI geoscientists, and LGBTQ+ geoscientists of Asian/Pacific-Islander descent.
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>June 02</b> - AAPIIG Roundtable: Navigating Intersectionality and Agency in the Geosciences (Part 2)</summary>
 
   ![Image for June 2, 2021 round table.](img/june2_roundtablepart2_twitter.png)
@@ -558,7 +708,7 @@ Here is a partial list of events hosted by or in collaboration with AAPIIG. We u
   **Description:** Informal “coffee/tea hour” specifically for geoscience students who are AAPI or of Asian/Pacific Islander-descent in a US institution — including undergraduate students, graduate students, recent grads in transition, post-bacs, and prospective students.
   </details>
 
-  <details open>
+  <details>
   <summary>&nbsp;<b>May 20</b> - AAPIIG Roundtable: Navigating Intersectionality and Agency in Geosciences (Part 1)</summary>
 
   ![Image for May 20, 2021 round table.](img/may20_roundtablepart1_twitter.png)
