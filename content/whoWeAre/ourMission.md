@@ -13,9 +13,10 @@ Asian Americans and Pacific Islanders in Geosciences (AAPIIG) is a grassroots, m
 - embrace the diversity of both historical and contemporary experiences encompassed by communities grouped  together by the AAPI categorization; and
 - advocate for justice, equity, diversity, and inclusion issues in solidarity with other marginalized groups, both within our disciplines and the world at large.
 
-**What We Do**
+**Example Initiatives and Activities**
 
-To achieve our mission, the organization coordinates, maintains, and supports the following initiatives and activities:
+Past AAPIIG initiatives and activities have included the following:
+
 - networking events for AAPI geoscientists to connect;
 - a mentorship network for AAPI geoscientists across career stages and sectors;
 - informational seminars and panels on AAPI issues and their relation to geosciences;

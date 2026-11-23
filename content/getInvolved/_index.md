@@ -4,4 +4,4 @@ menu: main
 weight: 75
 ---
 
-We are a new and growing organization that began in December 2020 and officially launched in April 2021. Thus far, we organize various events for community building and education (see Initiatives) and host an affinity space on Slack. 
+[Join the AAPIIG email list](/getinvolved/joinus/) to hear about meetups, panels, and other opportunities to participate. Students and early-career geoscientists are welcome. Explore our [past events](/events/) and read our [Community Guidelines](/getinvolved/communityguidelines/).

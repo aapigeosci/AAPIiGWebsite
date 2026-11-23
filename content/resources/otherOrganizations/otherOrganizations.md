@@ -13,7 +13,9 @@ Here are some useful resources:
 
 * [GeoLatinas](https://geolatinas.org)
 * [National Association of Black Geoscientists](http://www.nabg-us.org/)
-* [IAGD](https://theiagd.org/)
+* [Indigenous Geoscience Community (IGC)](https://indigenous.stemedplus.org/)
+* [US Association of Polar Early Career Scientists (USAPECS)](https://usapecs.org/)
+* [International Association for Geoscience Diversity Foundation (IAGD)](https://theiagd.org/)
 * [Society for Women in Marine Science](https://swmsmarinescience.com/)
 * [Earth Science Women’s Network](https://eswnonline.org/)
 * [Mentoring Physical Oceanography Women to Increase Retention (MPOWIR)](http://mpowir.org/)
