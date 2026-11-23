@@ -1,10 +1,7 @@
 ---
 title: AGILE
-menu: 
-  main:
-    parent: Resources
 weight: 50
-draft: false
+draft: true
 ---
 
 <a href="https://sites.brown.edu/aapi-earth/" target="_blank"> ![AGILE logo.](AAPIiG-AGILE-NSF-logo_circletext800_CJuang_v2.png)</a>

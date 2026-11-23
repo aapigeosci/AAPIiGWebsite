@@ -6,13 +6,13 @@ menu:
 weight: 20
 summary: "Guidelines for all conduct in spaces where AAPIIG congregates, whether online or in-person."
 ---
-Thank you for your interest in the AAPIIG community. As part of [our mission](/whoweare/ourmission), we aim to create a place where all members feel safe, included, and able to particulate as their whole selves. As an affinity space, we recognize that everyone is at different stages of identity formation, especially as it pertains to our role as geoscientists. We strive to make AAPIIG an organization that fosters environments where this lifelong journey of learning and introspection may occur.
+Thank you for your interest in the AAPIIG community. As part of [our mission](/whoweare/ourmission), we aim to create a place where all members feel safe, included, and able to participate as their whole selves. As an affinity space, we recognize that everyone is at different stages of identity formation, especially as it pertains to our role as geoscientists. We strive to make AAPIIG an organization that fosters environments where this lifelong journey of learning and introspection may occur.
 
 To ensure the best possible experience for all participants, we have established some basic guidelines for all conduct in spaces where the AAPIIG community congregates, whether online or in-person. This document is a living document and subject to amendments in the future as societal ethics continue to evolve.
 
 By joining or participating in AAPIIG activities, you agree that you have read and will follow these guidelines. We reserve the right to suspend or terminate a participant’s ability to engage in AAPIIG events and spaces if they violate these rules.
 
-If you have questions about these rules, the community, or how you can participate, please contact a Community Administrator.
+If you have questions about these rules, the community, or how you can participate, please [contact an AAPIIG organizer](/contact/).
 
 **All participants are to:**
 
@@ -51,14 +51,8 @@ If you have questions about these rules, the community, or how you can participa
 
 **Reporting unacceptable behavior:**
 
-If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify a [Community Administrator](/getinvolved/communityadminstrators) in-person, by email, Slack (see **[Admin]** tag), and/or phone.
+If you are the subject of unacceptable behavior or have witnessed any such behavior, please immediately notify an AAPIIG organizer in-person, [by email](mailto:aapigeosci.adm@gmail.com), and/or phone. We also operate an anonymous feedback form [here](https://docs.google.com/forms/d/e/1FAIpQLSfBt8u6qHpk4ulBojyNaJ0aU3JpNPmAJfBO2hYwJRgtgWC2Tw/viewform).
 
 Anyone experiencing or witnessing behavior that constitutes an immediate or serious threat to public safety, or a criminal act, is expected to contact 911. Those witnessing a potential criminal act should also take actions necessary to maintain their own personal safety.
-
-**Community Administrator responsibilities:**
-
-In the interest of fostering an open and welcoming environment, we as administrators pledge to do our best to make participation in our community a harassment-free experience for everyone.
-
-Workspace administrators moderate the workspace, ensuring that members adhere to the above guidelines and maintaining the workspace structure and permissions behind-the-scenes. Administrators who do not follow or enforce the community guidelines in good faith may face temporary or permanent repercussions as determined by other administrators.
 
 *These Community Guidelines borrow much of their language from the following sources: [Go Make Things](https://gomakethings.com/community-guidelines/), [Earth Science Women’s Network](https://connect.agu.org/eswn/codeofconduct), [NE Geobiology 2021 Conference](https://negeobio2021.host.dartmouth.edu/code-of-conduct/), ClimateGrad Slack Community, and [BlackAFInSTEM Community Conduct](https://docs.google.com/document/d/1JerYF7KgJSpXBn3gWScVzjS23NyR3eCcMfjcUPUtjWQ/edit?usp=sharing).*

@@ -2,10 +2,6 @@
 title: AAPiG
 menu: main
 weight: -100
-banner:
-  enabled: true
-  message: "Explore Our Upcoming 2025 AANHPI Heritage Month Events!" 
-  link: "https://aapigeosci.org/events/currentevents/"
 indexText: >-
   # Asian Americans and Pacific Islanders in Geosciences
 
